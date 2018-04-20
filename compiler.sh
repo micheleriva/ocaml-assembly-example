@@ -1,0 +1,1 @@
+ocamlopt -S main.ml
